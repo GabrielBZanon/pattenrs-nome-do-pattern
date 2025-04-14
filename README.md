@@ -8,13 +8,13 @@ Este projeto demonstra como utilizar o **Factory Pattern (Padrão de Fábrica)**
 
 ---
 
-## ✨ Objetivo
+## Objetivo
 
 O objetivo é mostrar como aplicar o **Design Pattern de Criação** chamado `Factory` para centralizar a criação de objetos, tornando o código mais limpo e fácil de manter.
 
 ---
 
-## 🧱 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 /src
@@ -29,7 +29,7 @@ O objetivo é mostrar como aplicar o **Design Pattern de Criação** chamado `Fa
 
 ---
 
-## 🧠 O que é o Factory Pattern?
+## O que é o Factory Pattern?
 
 O **Factory Pattern** é um padrão de projeto que fornece uma **interface para criar objetos em uma superclasse**, mas **permite que as subclasses decidam qual classe instanciar**.
 
@@ -38,7 +38,7 @@ O **Factory Pattern** é um padrão de projeto que fornece uma **interface para 
 
 ---
 
-## 📦 Produtos Criados
+## Produtos Criados
 
 O projeto trabalha com os seguintes produtos:
 
@@ -50,7 +50,7 @@ Cada um é representado por sua própria classe e possui nome e preço definidos
 
 ---
 
-## 🔨 Como funciona?
+## Como funciona?
 
 ### 1. Criamos classes separadas para cada produto:
 
@@ -146,7 +146,7 @@ Factory Pattern se assemelha mais ao Builder Pattern, pois ambos são voltados �
 O Factory Pattern cria objetos prontos com base em parâmetros, enquanto o Builder Pattern permite montar objetos complexos passo a passo de forma personalizada.
 
 
-## 👨‍💻 Autores
+## Autores
 
 - **Gabriel Araújo**  
 - **Gabriel B. Zanon**  
@@ -160,7 +160,7 @@ O Factory Pattern cria objetos prontos com base em parâmetros, enquanto o Build
 
 ---
 
-## 📜 Licença
+## Licença
 
 Este projeto está licenciado sob a **MIT License**.  
 Sinta-se livre para usar, estudar e adaptar!
