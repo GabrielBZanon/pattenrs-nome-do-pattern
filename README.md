@@ -147,13 +147,16 @@ O Factory Pattern cria objetos prontos com base em parâmetros, enquanto o Build
 
 
 ## 👨‍💻 Autores
-**Gabriel Araújo**
-**Gabriel B. Zanon**  
-**Kauê H. C. Fidelis**  
-**Lucas G. Giachetto**  
-**Marcos V. Oliveira**  
-📍 Amparo – SP  
-💼 Estudantes de Análise e Desenvolvimento de Sistemas SENAI 
+
+- **Gabriel Araújo**  
+- **Gabriel B. Zanon**  
+- **Kauê H. C. Fidelis**  
+- **Lucas G. Giachetto**  
+- **Marcos V. Oliveira**
+
+📍 *Amparo – SP*  
+💼 *Estudantes de Análise e Desenvolvimento de Sistemas - SENAI*
+
 
 ---
 
