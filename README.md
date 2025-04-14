@@ -1,6 +1,11 @@
 # Design-Patterns
 Padrões Arquiteturais
 
+#Definição
+O Factory Pattern é um padrão de criação que centraliza e abstrai a criação de objetos, permitindo que o código cliente solicite um objeto com base em um parâmetro simples, sem saber como ele é criado internamente.
+
+Ele reduz o acoplamento, facilita a manutenção e torna o código mais flexível e reutilizável, especialmente quando há múltiplos tipos de objetos a serem instanciados de forma padronizada.
+
 
 # Exemplo de Factory Pattern em JavaScript
 
