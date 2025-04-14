@@ -97,6 +97,21 @@ console.log(livro);
 - 🔒 **Encapsulamento da lógica de criação**
 - 📦 **Facilidade para adicionar novos tipos de objetos**
 
+❌ Desvantagens
+Desvantagem	Explicação
+Aumento de classes	Pode gerar muitas fábricas e subclasses
+Lógica de decisão complexa	Muitos if ou switch dificultam a leitura
+Menos controle na personalização	O objeto vem pronto, com pouca flexibilidade de configuração
+Pode ser exagerado para objetos simples	Às vezes, usar new Classe() direto seria mais simples
+🔄 Comparação com o Builder Pattern
+Característica	Factory Pattern	Builder Pattern
+Objetivo	Criar objetos com base em parâmetros simples	Construir objetos complexos com muitos atributos
+Forma de criação	Objeto é entregue pronto	Objeto é montado passo a passo
+Controle do cliente	Baixo controle: recebe objeto finalizado	Alto controle: personaliza antes de criar
+Complexidade de uso	Baixa a média	Média a alta
+Quando usar	Tipos variados de objetos	Objetos com muitas etapas/configurações
+✍️ Resumo em uma frase:
+O Factory Pattern cria objetos prontos com base em parâmetros, enquanto o Builder Pattern permite montar objetos complexos passo a passo de forma personalizada.
 ---
 
 ## ▶️ Como Executar
