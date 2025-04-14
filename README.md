@@ -92,10 +92,13 @@ console.log(livro);
 
 ## ✅ Benefícios do Factory Pattern
 
-- 🔁 **Reutilização de código**
-- 🧼 **Código mais limpo e organizado**
-- 🔒 **Encapsulamento da lógica de criação**
-- 📦 **Facilidade para adicionar novos tipos de objetos**
+| **Benefício**                          | **Descrição**                                                           |
+|----------------------------------------|-------------------------------------------------------------------------|
+| 🔁 Reutilização de código              | A lógica de criação pode ser reaproveitada em vários lugares            |
+| 🧼 Código mais limpo e organizado      | Reduz o acoplamento e melhora a legibilidade do sistema                 |
+| 🔒 Encapsulamento da lógica de criação| A criação dos objetos é centralizada, sem expor detalhes ao cliente     |
+| 📦 Facilidade para adicionar novos tipos| Novas classes podem ser adicionadas sem modificar o código existente    |
+
 
 ## ❌ Desvantagens do Factory Pattern
 
